@@ -1,3 +1,4 @@
+```hcl
 terraform {
 }
 
@@ -20,5 +21,5 @@ module "vpc" {
 
   tags = var.vpc_tags
 }
-
+```
  
