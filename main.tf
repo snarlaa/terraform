@@ -1,3 +1,6 @@
+terraform {
+}
+
 module "dev_instance" {
   source = "/Users/snarla/terr"
 }
